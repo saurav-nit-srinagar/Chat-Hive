@@ -1,0 +1,11 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+/* Chrome, Safari and newer Edge (WebKit-based) */
+.messages::-webkit-scrollbar {
+    display: none;
+}
