@@ -4,7 +4,6 @@ import {
   Box,
   FormControl,
   IconButton,
-  Indicator,
   Input,
   Spinner,
   useToast,
